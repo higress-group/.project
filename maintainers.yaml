@@ -1,0 +1,18 @@
+# Maintainer roster for Higress
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "higress"
+    org: "higress-group"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - CH3CHO
+          - EndlessSeeker
+          - gengleilei
+          - hanxiantao
+          - cr7258
+          - johnlanni
+          - lexburner
