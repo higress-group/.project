@@ -25,7 +25,7 @@ repositories:
 
 website: "https://higress.io"
 
-artwork: "https://landscape.cncf.io/logos/higress.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/higress"
 
 adopters:
   path: "https://github.com/higress-group/higress/blob/main/ADOPTERS.md"
